@@ -60,19 +60,19 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃EMMY_HENZ-MD SESSION IS 
+┃𝐀𝐍𝐘𝐖𝐀𝐘 𝐌𝐃 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 EMMANUEL HENSHAW 𖥘
+❶ || Creator = 𖥘 𝐀𝐍𝐘𝐖𝐀𝐘 𝐓𝐄𝐂𝐇 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = 👉 https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C 👈
+❷ || WhattsApp Channel = 👉 https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/EmmyHenz 👈
+Wanna talk to me?👉 https://t.me/Anywaytech 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 EMMANUEL HENSHAW*
+©*2024-2099 𝐀𝐍𝐘𝐖𝐀𝐘 𝐓𝐄𝐂𝐇*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
